@@ -23,7 +23,7 @@ This article will show you how to create the module - «Address Book», contain 
 
 The first thing is faced novice developer, has never engaged in writing modules for «Nano Wallet», it is a question - "Where do I start?".
 
-First, check installed on your system Node.js platform, if not, download and install.
+First, check installed on your system Node.js platform, if not, [download](https://nodejs.org/en/download/) and install.
 
 Node.js you need to build the project.
 
