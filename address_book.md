@@ -30,7 +30,9 @@ Next, download the source code of wallet «Nano Wallet» from [the official repo
 To build the project, open a terminal, go to the root project directory and run the following commands:
 
 ```> npm install -g gulp-cli```
+
 ```> npm install```
+
 ```> gulp```
 
 Now everything is ready, and you can proceed directly to the development of the module itself.
